@@ -9,10 +9,13 @@ Expert in **"Strategic Bridge Management"**—aligning high-level global archite
 - **IT Governance & Audit**: Certified **Systems Auditor** with deep knowledge of EA, BPR, and Risk Management.
 - **Multinational Leadership**: Proven track record of managing teams across US, Germany, India, and Japan (e.g., TCSI Submarine Cable Project).
 
-### 🏗 System Architecture & CI/CD Pipeline
-*Below is an example of a modern full-stack environment I recently designed and implemented, demonstrating the integration of automation and containerization.*
+#### 1. System Component Diagram
+![System Architecture](./images/architecture_diagram.jpg)
+*This diagram illustrates the containerized environment using Docker, orchestrating React (Vite) for the frontend and Laravel for the API gateway.*
 
-![System Architecture](./architecture.png)
+#### 2. Process Sequence Diagram
+![Sequence Diagram](./images/sequence_diagram.jpg)
+*Visualizing the data flow and integration logic between the user interface, backend services, and automated testing modules.*
 
 #### **Technical Highlights of this Architecture:**
 - **Automated CI/CD**: Leveraging **GitHub Actions** and **Docker Hub** for seamless deployment from code push to VPS.
