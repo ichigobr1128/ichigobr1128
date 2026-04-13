@@ -14,7 +14,7 @@ Expert in **"Strategic Bridge Management"**—aligning high-level global archite
 *This diagram illustrates the containerized environment using Docker, orchestrating React (Vite) for the frontend and Laravel for the API gateway.*
 
 #### 2. Process Sequence Diagram
-![Sequence Diagram](<img src="chart.png" width="60%">)
+![Sequence Diagram]<img src="chart.png" width="60%">
 *Visualizing the data flow and integration logic between the user interface, backend services, and automated testing modules.*
 
 #### **Technical Highlights of this Architecture:**
