@@ -10,11 +10,11 @@ Expert in **"Strategic Bridge Management"**—aligning high-level global archite
 - **Multinational Leadership**: Proven track record of managing teams across US, Germany, India, and Japan (e.g., TCSI Submarine Cable Project).
 
 #### 1. System Component Diagram
-![System Architecture](<img src="architecture.jpg" width="500">)
+![System Architecture](<img src="system.png" width="500">)
 *This diagram illustrates the containerized environment using Docker, orchestrating React (Vite) for the frontend and Laravel for the API gateway.*
 
 #### 2. Process Sequence Diagram
-![Sequence Diagram](<img src="sequence.jpg" width="60%">)
+![Sequence Diagram](<img src="chart.png" width="60%">)
 *Visualizing the data flow and integration logic between the user interface, backend services, and automated testing modules.*
 
 #### **Technical Highlights of this Architecture:**
