@@ -9,15 +9,6 @@ Expert in **"Strategic Bridge Management"**—aligning high-level global archite
 - **IT Governance & Audit**: Certified **Systems Auditor** with deep knowledge of EA, BPR, and Risk Management.
 - **Multinational Leadership**: Proven track record of managing teams across US, Germany, India, and Japan (e.g., TCSI Submarine Cable Project).
 
-#### 1. System Component Diagram
-![System Architecture]<img src="system.png" width="40%">
-
-*This diagram illustrates the containerized environment using Docker, orchestrating React (Vite) for the frontend and Laravel for the API gateway.*
-
-#### 2. Process Sequence Diagram
-![Sequence Diagram]<img src="chart.png" width="60%">
-
-*Visualizing the data flow and integration logic between the user interface, backend services, and automated testing modules.*
 
 #### **Technical Highlights of this Architecture:**
 - **Automated CI/CD**: Leveraging **GitHub Actions** and **Docker Hub** for seamless deployment from code push to VPS.
@@ -29,6 +20,7 @@ Expert in **"Strategic Bridge Management"**—aligning high-level global archite
 ![System Architecture]<img src="system.png" width="40%">
 
 *This diagram illustrates the containerized environment using Docker, orchestrating React (Vite) for the frontend and Laravel for the API gateway.*
+*Visualizing the data flow and integration logic between the user interface, backend services, and automated testing modules.*
 
 
 ### 🛠 Modern Tech Stack (Active Practition)
