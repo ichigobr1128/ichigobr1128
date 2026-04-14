@@ -25,6 +25,12 @@ Expert in **"Strategic Bridge Management"**—aligning high-level global archite
 - **Security & Reliability**: Optimized with **Nginx** reverse proxy and automated **SSL (Certbot)** management.
 - **Audit-Ready Design**: Structured with a focus on "Separation of Concerns" for enhanced security and maintainability.
 
+#### System Component Diagram
+![System Architecture]<img src="system.png" width="40%">
+
+*This diagram illustrates the containerized environment using Docker, orchestrating React (Vite) for the frontend and Laravel for the API gateway.*
+
+
 ### 🛠 Modern Tech Stack (Active Practition)
 Even during my 10 years as a CEO, I have remained hands-on to ensure strategic decisions are grounded in technical reality.
 - **Languages**: Python (Certified), PHP (Laravel), JavaScript (React, Next.js).
@@ -33,7 +39,9 @@ Even during my 10 years as a CEO, I have remained hands-on to ensure strategic d
 
 ### 🔗 Portfolio & Links
 - **Demo Site**: [mkc15.net](https://mkc15.net)
-- **LinkedIn/Contact**: 
+
+![Sequence Diagram]<img src="chart.png" width="60%">
+  
 
 ### 📜 Certifications
 - **Certified Systems Auditor** (Advanced Information Technology Engineer, Japan)
