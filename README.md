@@ -17,7 +17,7 @@ Expert in **"Strategic Bridge Management"**—aligning high-level global archite
 - **Audit-Ready Design**: Structured with a focus on "Separation of Concerns" for enhanced security and maintainability.
 
 #### System Component Diagram
-![System Architecture]<img src="system.png" width="40%">
+![System Architecture]<img src="system.png" width="60%">
 
 *This diagram illustrates the containerized environment using Docker, orchestrating React (Vite) for the frontend and Laravel for the API gateway.*
 *Visualizing the data flow and integration logic between the user interface, backend services, and automated testing modules.*
@@ -32,7 +32,7 @@ Even during my 10 years as a CEO, I have remained hands-on to ensure strategic d
 ### 🔗 Portfolio & Links
 - **Demo Site**: [mkc15.net](https://mkc15.net)
 
-![Sequence Diagram]<img src="chart.png" width="60%">
+![SPA and dynamic graf]<img src="chart.png" width="60%">
   
 
 ### 📜 Certifications
